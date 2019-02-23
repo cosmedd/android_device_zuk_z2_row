@@ -120,7 +120,7 @@
         <value>425</value>
         <value>456</value>
     </array>
-    <item name="battery.capacity">3090</item>
+    <item name="battery.capacity">3000</item>
     <item name="wifi.controller.idle">0.5</item>
     <item name="wifi.controller.rx">40</item>
     <item name="wifi.controller.tx">40</item>
